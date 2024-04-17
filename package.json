@@ -4,11 +4,12 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"tsc": "tsc"
 	},
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@hard-apps/workspace-1": "^1.0.0"
+		"@hard-apps/workspace-1": "^1.0.0",
+		"typescript": "^5.4.5"
 	}
 }
